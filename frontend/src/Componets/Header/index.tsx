@@ -1,6 +1,6 @@
-import React from 'react'
-import logo from '../../assets/img/logo.svg'
-import './styles.css'
+import React from 'react';
+import logo from '../../assets/img/logo.svg';
+import './styles.css';
 
 function Header() {
     return (
@@ -19,7 +19,7 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
 
 
 

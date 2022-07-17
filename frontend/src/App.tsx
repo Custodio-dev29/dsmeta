@@ -1,6 +1,6 @@
-import React from 'react'
-import Header from './Componets/Header'
-import NotificationButton from './Componets/NotificationButton'
+import React from 'react';
+import Header from './Componets/Header';
+
 
 import SalesCard from './Componets/SalesCard'
 import './index.css'
@@ -26,4 +26,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
